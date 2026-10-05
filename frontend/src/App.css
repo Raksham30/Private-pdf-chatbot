@@ -1,0 +1,32 @@
+.app {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.upload-section,
+.chat-section {
+  border: 1px solid #ddd;
+  padding: 25px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 12px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 12px 20px;
+  cursor: pointer;
+}
+
+.answer {
+  margin-top: 25px;
+  padding: 20px;
+  background: #f5f5f5;
+  border-radius: 8px;
+}
